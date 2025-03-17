@@ -9,4 +9,9 @@
     width: 500px;
     height: 350px;
     background-image: url("../assets/imgs/bg1.png");
+    background-size: cover;
+}
+
+.texto{
+    margin: 20px auto;
 }
